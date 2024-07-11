@@ -1,0 +1,134 @@
+{
+  "ricette": [
+    {
+      "titolo": "Spaghetti alla Carbonara",
+      "descrizione": "Classico piatto italiano di pasta con salsa cremosa.",
+      "ingredienti": [
+        "200g di spaghetti",
+        "100g di pancetta, a dadini",
+        "2 uova grandi",
+        "50g di formaggio Parmigiano grattugiato",
+        "2 spicchi d'aglio, tritati",
+        "Sale e pepe q.b."
+      ]
+    },
+    {
+      "titolo": "Pollo alla Stir-Fry",
+      "descrizione": "Stir-fry veloce e sano con pollo tenero e verdure fresche.",
+      "ingredienti": [
+        "2 petti di pollo, affettati",
+        "1 peperone, tagliato a fettine sottili",
+        "1 tazza di cimette di broccoli",
+        "1/2 tazza di salsa di soia",
+        "2 cucchiai di olio vegetale",
+        "1 cucchiaio di zenzero tritato",
+        "3 spicchi d'aglio, tritati"
+      ]
+    },
+    {
+      "titolo": "Insalata Caprese",
+      "descrizione": "Insalata italiana semplice e rinfrescante con pomodori, mozzarella e basilico.",
+      "ingredienti": [
+        "3 pomodori maturi, affettati",
+        "1 mozzarella fresca, affettata",
+        "1/4 tazza di foglie di basilico fresco",
+        "2 cucchiai di aceto balsamico",
+        "3 cucchiai di olio d'oliva",
+        "Sale e pepe q.b."
+      ]
+    },
+    {
+      "titolo": "Biscotti al Cioccolato",
+      "descrizione": "Biscotti classici con gocce di cioccolato fondente.",
+      "ingredienti": [
+        "1 tazza di burro, ammorbidito",
+        "1 tazza di zucchero bianco",
+        "1 tazza di zucchero di canna",
+        "2 uova",
+        "2 cucchiaini di estratto di vaniglia",
+        "3 tazze di farina",
+        "1 cucchiaino di bicarbonato di sodio",
+        "2 tazze di gocce di cioccolato fondente"
+      ]
+    },
+    {
+      "titolo": "Insalata Caesar",
+      "descrizione": "Insalata piccante con lattuga romana, crostini e formaggio Parmigiano.",
+      "ingredienti": [
+        "1 cespo di lattuga romana, tritato",
+        "1 tazza di crostini",
+        "1/2 tazza di formaggio Parmigiano grattugiato",
+        "1/4 tazza di salsa Caesar",
+        "1 cucchiaio di succo di limone",
+        "Sale e pepe q.b."
+      ]
+    },
+    {
+      "titolo": "Tacos di Manzo",
+      "descrizione": "Tacos speziati e saporiti con carne macinata condita.",
+      "ingredienti": [
+        "500g di carne macinata di manzo",
+        "1 bustina di condimento per tacos",
+        "12 gusci per tacos",
+        "1 tazza di lattuga tritata",
+        "1 tazza di pomodori a cubetti",
+        "1/2 tazza di formaggio cheddar grattugiato",
+        "1/4 tazza di panna acida"
+      ]
+    },
+    {
+      "titolo": "Pizza Margherita",
+      "descrizione": "Pizza classica con salsa di pomodoro, mozzarella e basilico fresco.",
+      "ingredienti": [
+        "1 palla di impasto per pizza",
+        "1/2 tazza di salsa di pomodoro",
+        "1 tazza di mozzarella grattugiata",
+        "1/4 tazza di foglie di basilico fresco",
+        "2 cucchiai di olio d'oliva",
+        "Sale e pepe q.b."
+      ]
+    },
+    {
+      "titolo": "Stir-Fry di Verdure",
+      "descrizione": "Stir-fry sano con verdure colorate e tofu.",
+      "ingredienti": [
+        "1 blocco di tofu compatto, tagliato a cubetti",
+        "1 tazza di piselli di neve",
+        "1 peperone rosso, affettato sottile",
+        "1 tazza di cimette di broccoli",
+        "1/2 tazza di salsa di soia",
+        "2 cucchiai di olio vegetale",
+        "1 cucchiaio di zenzero tritato",
+        "3 spicchi d'aglio, tritati"
+      ]
+    },
+    {
+      "titolo": "Insalata Greca",
+      "descrizione": "Insalata rinfrescante con cetrioli, pomodori, olive e formaggio feta.",
+      "ingredienti": [
+        "2 cetrioli, affettati",
+        "3 pomodori, affettati",
+        "1/2 tazza di olive Kalamata",
+        "1/2 tazza di formaggio feta sbriciolato",
+        "1/4 tazza di cipolla rossa, affettata sottile",
+        "2 cucchiai di olio d'oliva",
+        "1 cucchiaio di aceto di vino rosso",
+        "Sale e pepe q.b."
+      ]
+    },
+    {
+      "titolo": "Pasta Primavera",
+      "descrizione": "Piatto di pasta leggero e saporito con verdure fresche.",
+      "ingredienti": [
+        "300g di penne",
+        "1 tazza di pomodorini ciliegia, tagliati a metà",
+        "1 tazza di cimette di broccoli",
+        "1/2 tazza di peperoni affettati",
+        "1/4 tazza di formaggio Parmigiano grattugiato",
+        "3 cucchiai di olio d'oliva",
+        "2 spicchi d'aglio, tritati",
+        "Sale e pepe q.b."
+      ]
+    }
+  ]
+}

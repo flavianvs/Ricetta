@@ -1,0 +1,12 @@
+<mat-sidenav-container class="example-container">
+  <mat-sidenav style="background-color: aliceblue;" mode="side" opened >
+    <div class="matSidenav">
+      <button mat-flat-button routerLink="./ricette">Ricette</button>
+      <button mat-flat-button style="margin-top: 5px;" routerLink="./ricette/new">Nuova Ricetta</button>
+
+    </div>
+    </mat-sidenav>
+  <mat-sidenav-content>
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+</mat-sidenav-container>

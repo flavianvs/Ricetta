@@ -1,0 +1,29 @@
+<div class="center"><form [formGroup]="recipeForm" (ngSubmit)="onSubmit()">
+  <mat-form-field style="width:50%" appearance="outline">
+    <mat-label>Title:</mat-label>
+    <input style="width: 100%;" matInput formControlName="titolo" />
+  </mat-form-field>
+  <mat-form-field style="width:50%" appearance="outline">
+    <mat-label>Description:</mat-label>
+    <textarea matInput formControlName="descrizione"></textarea>
+  </mat-form-field>
+  <div formArrayName="ingredienti">
+    <div
+      *ngFor="let ingredient of ingredients.controls; let i = index"
+      [formGroupName]="i"
+    >
+      <mat-form-field appearance="outline">
+        <mat-label>Ingredient Name:</mat-label>
+        <input matInput formControlName="ingrediente" />
+      </mat-form-field>
+      &nbsp;
+      <button mat-flat-button type="button" (click)="removeIngredient(i)">Remove</button>
+      <br />
+    </div>
+  </div>
+  <button mat-flat-button type="button" (click)="addIngredient()">Add Ingredient</button>
+  <br /><br />
+  <button mat-flat-button type="submit" [disabled]="recipeForm.invalid">Submit</button>
+
+</form>
+</div>
